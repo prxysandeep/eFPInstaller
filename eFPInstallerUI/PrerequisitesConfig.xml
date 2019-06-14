@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PrerequisitesCheck>
+  <OS Version="10.0" OsType="Server" Name="Win2k16">
+    <eFinancePlus Release="19.4">
+      <WindowsComponents>
+        <Component Name="ODBCDriver" Version="ODBC Driver 13 for SQL Server" OSBit="64-bit" InstallFile="msodbcsql_13.1_x64.exe"/>
+      </WindowsComponents>
+      <ThirdPartySoftwares>
+        <AppServers>
+          <MKSToolKit>10.0</MKSToolKit>
+          <SSMSVersion MinVersion="14"></SSMSVersion>
+        </AppServers>
+        <SQLServers>
+          <SQLVersion MinVersion="13"></SQLVersion>
+          <SSMSVersion MinVersion="14"></SSMSVersion>
+        </SQLServers>
+        <VisualStudio>
+          <VisualStudioVersion MinVersion="3.5"></VisualStudioVersion>
+        </VisualStudio>
+      </ThirdPartySoftwares>
+      <RolesFeatures>
+        <AllServers>
+          <Feature>IIS-WebServer</Feature>
+          <Feature>IIS-HttpRedirect</Feature>
+          <Feature>IIS-ISAPIExtensions</Feature>
+          <Feature>IIS-ISAPIFilter</Feature>
+          <Feature>IIS-HealthAndDiagnostics</Feature>
+          <Feature>IIS-HttpLogging</Feature>
+          <Feature>IIS-StaticContent</Feature>
+          <Feature>IIS-DirectoryBrowsing</Feature>
+          <Feature>IIS-HttpErrors</Feature>
+          <Feature>IIS-StaticContent</Feature>
+          <Feature>IIS-DefaultDocument</Feature>
+          <Feature>IIS-RequestMonitor</Feature>
+          <Feature>IIS-RequestFiltering</Feature>
+          <Feature>IIS-ASP</Feature>
+          <Feature>WCF-HTTP-Activation45</Feature>
+          <Feature>IIS-ServerSideIncludes</Feature>
+          <Feature>IIS-BasicAuthentication</Feature>
+          <Feature>IIS-WindowsAuthentication</Feature>
+          <Feature>IIS-IPSecurity</Feature>
+          <Feature>IIS-ManagementConsole</Feature>
+          <Feature>IIS-HttpCompressionDynamic</Feature>
+          <Feature>MSMQ</Feature>
+          <Feature>IIS-NetFxExtensibility45</Feature>
+          <Feature>IIS-ASPNET45</Feature>
+        </AllServers>
+        <AppServer>
+        </AppServer>
+        <WebServer>
+        </WebServer>
+        <ComplianceServer>
+          <Feature>IIS-NETCore</Feature>
+        </ComplianceServer>
+        <SQLServer>
+          <Feature>IIS-ASPNET35</Feature>
+        </SQLServer>
+        <EMAServer>
+          <Feature>IIS-WindowsAuthentication</Feature>
+        </EMAServer>
+      </RolesFeatures>
+    </eFinancePlus>
+  </OS>
+</PrerequisitesCheck>

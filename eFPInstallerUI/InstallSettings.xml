@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<eFPInstallSettings>
+  <eFinancePlus Release="19.4">
+    <SourceFileLocation FilePath="D:\eFPInstaller\Source"></SourceFileLocation>
+    <eFPServers>
+      <DBServers UserName="webuser" Password="Check4SW">
+        <DBServer ServerName="PATTIS1" InstanceName="" RestoreFilePath="D:\SQL\MSSQL13.MSSQLSERVER\MSSQL\Backup" DataFileLocation="D:\SQL\MSSQL13.MSSQLSERVER\MSSQL\Data" TransactionLogFileLocation="D:\SQL\MSSQL13.MSSQLSERVER\MSSQL\Data">
+          <Database Name="finplus194" Type="eFP" FileName="finplus194.bak"/>
+          <Database Name="complus194" Type="eCP" FileName="complus194.bak"/>
+          <Database Name="finplus_attach" Type="DO" FileName="finplus_attach.bak"/>
+          <Database Name="efpaspnetdb" Type="aspnetdb" FileName="emptyaspnetdb.bak"/>
+          <Database Name="efpcatalog" Type="Catalog" FileName=""/>
+          <Database Name="efpcompliance" Type="Compliance" FileName=""/>
+          <Database Name="eFPAuthProvider" Type="Auth" FileName=""/>
+        </DBServer>
+ </DBServers>
+      <AppServers>
+        <AppServer ServerName="PSBET-EFAP01T.corp.powerschool.int" />
+      </AppServers>
+      <WFServers>
+        <WFServer ServerName="PSBET-EFWF01T.corp.powerschool.int" />
+      </WFServers>
+    </eFPServers>
+  </eFinancePlus>
+</eFPInstallSettings>
