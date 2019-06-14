@@ -1,0 +1,11 @@
+D:\programmer utilities\Programmer Test Utilities\eFinancePLUS\eFPInstaller\Prerequisites\bin\Debug\Prerequisites.dll
+D:\programmer utilities\Programmer Test Utilities\eFinancePLUS\eFPInstaller\Prerequisites\bin\Debug\Prerequisites.pdb
+D:\programmer utilities\Programmer Test Utilities\eFinancePLUS\eFPInstaller\Prerequisites\obj\Debug\Prerequisites.csproj.CoreCompileInputs.cache
+D:\programmer utilities\Programmer Test Utilities\eFinancePLUS\eFPInstaller\Prerequisites\obj\Debug\Prerequisites.dll
+D:\programmer utilities\Programmer Test Utilities\eFinancePLUS\eFPInstaller\Prerequisites\obj\Debug\Prerequisites.pdb
+F:\EDRR\ProxyWork\eFPInstaller\eFPInstaller\Prerequisites\bin\Debug\Prerequisites.dll
+F:\EDRR\ProxyWork\eFPInstaller\eFPInstaller\Prerequisites\bin\Debug\Prerequisites.pdb
+F:\EDRR\ProxyWork\eFPInstaller\eFPInstaller\Prerequisites\obj\Debug\Prerequisites.csprojAssemblyReference.cache
+F:\EDRR\ProxyWork\eFPInstaller\eFPInstaller\Prerequisites\obj\Debug\Prerequisites.csproj.CoreCompileInputs.cache
+F:\EDRR\ProxyWork\eFPInstaller\eFPInstaller\Prerequisites\obj\Debug\Prerequisites.dll
+F:\EDRR\ProxyWork\eFPInstaller\eFPInstaller\Prerequisites\obj\Debug\Prerequisites.pdb
